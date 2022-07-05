@@ -10,7 +10,7 @@ Studying front-end development. I am an enthusiast of new technologies. I have a
 Please, visit **my <a href="https://github.com/jeffersonnobrega/guilda/">guilda**</a> to see my study projects.
           
 **Working:**
-- 🔭 I’m currently working on BRB Serviços SA.
+- 🔭 Currently I work at BRB Serviços SA as a Computer Network Support Technician
 
 **Contatos:**
 
