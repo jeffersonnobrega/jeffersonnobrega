@@ -7,6 +7,8 @@ Studying front-end development. I am an enthusiast of new technologies. I have a
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
 
+Access **my presentation <a href"https://jeffersonnobrega.github.io/meusite/">page**</a> that I developed
+
 Please, visit **my <a href="https://github.com/jeffersonnobrega/guilda/">guilda**</a> to see my study projects.
           
 **Working:**
