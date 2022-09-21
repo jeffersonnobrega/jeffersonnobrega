@@ -35,10 +35,10 @@ Please, visit **my <a href="https://github.com/jeffersonnobrega/guilda/">guilda*
 - I'm a writer, I published my first book in 2015 called "The Chronicles of Blood and Faith" and I'm currently working on another.
 *Sou escritor, publiquei meu primeiro livro em 2015 chamado "As Crônicas de Sangue e Fé" e estou trabalhando em outro atualmente.*
 
-<a href="https://lsantos.dev">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffersonnobrega&count_private=true&show_icons=true&theme=github_dark" />
 </a>
-<a href="https://lsantos.dev">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonnobrega&theme=github_dark&layout=compact" />  
 </a>
 
