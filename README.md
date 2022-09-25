@@ -38,6 +38,12 @@ Please, visit **my <a href="https://github.com/jeffersonnobrega/guilda_dev">guil
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffersonnobrega&count_private=true&show_icons=true&theme=github_dark" />
 </a>
+</p>     
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonnobrega&langs_count=8&theme=github_dark&layout=compact" />  
+</a>
+          
+
 
 
 
