@@ -9,7 +9,7 @@ Studying front-end development. I am an enthusiast of new technologies. I have a
 
 Access **my presentation <a href="https://jeffersonnobrega.github.io/meusite/">page**</a> that I developed.
 
-Please, visit **my <a href="https://github.com/jeffersonnobrega/guilda/">guilda**</a> to see my study projects.
+Please, visit **my <a href="https://github.com/jeffersonnobrega/guilda_dev">guilda**</a> to see my study projects.
           
 **Working:**
 - 🔭 Currently I work at BRB Serviços SA as a Computer Network Support Technician
