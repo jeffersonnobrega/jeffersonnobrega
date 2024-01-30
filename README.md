@@ -9,7 +9,7 @@ Studying systems development, focusing on the backend, but with mastery of some 
 
 Access **my presentation <a href="https://jeffersonnobrega.github.io/meusite/">page**</a> that I developed.
 
-Please, visit **my <a href="https://github.com/jeffersonnobrega/guilda_dev">guilda**</a> to see my study projects.
+
           
 **Working:**
 - 🔭 I currently work at BRB Serviços SA as a Computer Network Analyst.
