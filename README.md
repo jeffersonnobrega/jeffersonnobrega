@@ -9,6 +9,9 @@ Studying systems development, focusing on the backend, but with mastery of some 
 
 Access **my presentation <a href="https://jeffersonnobrega.github.io/meusite/">page**</a> that I developed.
 
+**Recent projects**:
+ - [Compactador Automático](https://github.com/jeffersonnobrega/guilda_dev/tree/main/Projetos/dotNET/Compactador_Solution)
+
 
           
 **Working:**
