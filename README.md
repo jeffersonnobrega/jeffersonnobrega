@@ -12,7 +12,8 @@ Access **my presentation <a href="https://jeffersonnobrega.github.io/meusite/">p
 **Recent projects**:
  
  - [Turning me into a .NET developer](https://github.com/jeffersonnobrega/DevJrDotNet)
- - [Compactador Automático | C#,.NET Framework  ](https://github.com/jeffersonnobrega/guilda_dev/tree/main/Projetos/dotNET/Compactador_Solution)
+ - [Compactador Automático](https://github.com/jeffersonnobrega/guilda_dev/tree/main/Projetos/dotNET/Compactador_Solution) - C# e NET Framework
+ - [Notificação de consentimentos de cookies para navegadores](https://github.com/jeffersonnobrega/Projetos-Concluidos/tree/main/Web/AvisoCookies) - HTML, CSS, JavaScript
 
 
           
