@@ -12,7 +12,7 @@ Access **my presentation <a href="https://jeffersonnobrega.github.io/meusite/">p
 **Recent projects**:
  
  - [Turning me into a .NET developer](https://github.com/jeffersonnobrega/DevJrDotNet)
- - [Compactador Automático](https://github.com/jeffersonnobrega/guilda_dev/tree/main/Projetos/dotNET/Compactador_Solution)
+ - [Compactador Automático | C#,.NET Framework  ](https://github.com/jeffersonnobrega/guilda_dev/tree/main/Projetos/dotNET/Compactador_Solution)
 
 
           
