@@ -10,7 +10,7 @@ Studying systems development, focusing on the backend, but with mastery of some 
 Access **my presentation <a href="https://jeffersonnobrega.github.io/meusite/">page**</a> that I developed.
 
 **Recent projects**:
- 
+ - [Plugin Confirm-Read para Wordpress]([https://github.com/jeffersonnobrega/DevJrDotNet](https://github.com/jeffersonnobrega/guilda_dev/tree/main/Projetos/WORDPRESS-PHP/Confirm-Read-Plugin))
  - [Turning me into a .NET developer](https://github.com/jeffersonnobrega/DevJrDotNet)
  - [Compactador Automático](https://github.com/jeffersonnobrega/guilda_dev/tree/main/Projetos/dotNET/Compactador_Solution) - C# e NET Framework
  - [Notificação de consentimentos de cookies para navegadores](https://github.com/jeffersonnobrega/Projetos-Concluidos/tree/main/Web/AvisoCookies) - HTML, CSS, JavaScript
