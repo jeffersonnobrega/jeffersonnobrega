@@ -20,11 +20,13 @@
 
 ### 🧠 Em desenvolvimento contínuo
 
-- Automatizações com .NET (C#)
-- Integração de APIs REST
-- Plugins WordPress
-- Banco de dados PostgreSQL
-- Arquitetura de software e RPA
+- Desenvolvimento backend com .NET e C#
+- Criação e consumo de APIs REST
+- Estruturação de sistemas modulares e escaláveis
+- Desenvolvimento de plugins WordPress com PHP e JS
+- Banco de dados com PostgreSQL e SQL Server
+- Fundamentos Web com HTML, CSS e JavaScript
+- Automatizações e integração entre plataformas (ex: Outlook, Teams, WhatsApp)
 
 ---
 
