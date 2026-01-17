@@ -1,6 +1,8 @@
 ## 👋 Olá, eu sou o Jefferson Nóbrega
 
-🇧🇷 Brasileiro, atualmente no cargo de Analista de Redes de Computadores na BRB Serviços S.A., porém atuando como Analista de Sistemas e trilhando um caminho consistente para me tornar um **Desenvolvedor Backend** com visão FullStack e foco em **automação, APIs e soluções corporativas**.
+🇧🇷 Brasileiro, atualmente no cargo de Analista de Redes de Computadores na BRB Serviços S.A., porém atuando como **Analista de Sistemas** e trilhando um caminho consistente para me tornar um **Desenvolvedor Backend** com visão FullStack e foco em **automação, APIs e soluções corporativas**.
+
+🧠 Graduado em Redes de Compuradores e pós-graduações: **FullStack Development** e **Arquitetura de Software com Gestão de Projetos**.
 
 🎯 Estudante constante, entusiasta de novas tecnologias e apaixonado por resolver problemas com código.
 ---
@@ -13,6 +15,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="40" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" width="40" height="40" />
+  
 </div>
 
 ---
@@ -37,18 +44,14 @@
 
 ### 📌 Projetos em destaque
 
-- 🔌 [Plugin Confirm-Read para WordPress](https://github.com/jeffersonnobrega/guilda_dev/tree/main/Projetos/WORDPRESS-PHP/Confirm-Read-Plugin) – PHP, JS, HTML, CSS  
-- 📦 [Compactador Automático](https://github.com/jeffersonnobrega/guilda_dev/tree/main/Projetos/dotNET/Compactador_Solution) – .NET Framework, C#  
-- 🔄 [Transformando-me em Desenvolvedor .NET](https://github.com/jeffersonnobrega/DevJrDotNet) – Estudos e evolução na stack Microsoft  
-- 🍪 [Notificação de cookies para sites](https://github.com/jeffersonnobrega/Projetos-Concluidos/tree/main/Web/AvisoCookies) – Vanilla JS, HTML, CSS  
-
+Reformulando essa seção. Em breve atualizada.
 ---
 
 ### 🧾 Certificações e Badges
 
 <div>
-  <a href="https://www.credly.com/badges/69fe5282-c7cf-450e-85dc-f8f6d4d15ac2/public_url"><img src="https://images.credly.com/images/9b597652-5359-4187-86dc-9eee5d779741/Fundamentos-Na-Lei-Geral-De-Prote%C3%A7%C3%A3o-De-Dados---LGPDF.png" width="120"/></a>
-  <a href="https://www.credly.com/badges/9009d39a-74aa-44ef-b1d4-4980a79da509/public_url"><img src="https://images.credly.com/size/340x340/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" width="120"/></a>
+  <a href="https://www.credly.com/badges/69fe5282-c7cf-450e-85dc-f8f6d4d15ac2/public_url"><img src="https://images.credly.com/images/0a049d61-a91f-46bd-9931-e1153a6ee518/blob" width="120"/></a>
+  <a href="https://www.credly.com/badges/9009d39a-74aa-44ef-b1d4-4980a79da509/public_url"><img src="https://images.credly.com/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob" width="120"/></a>
   <a href="https://www.credly.com/badges/00b545e4-5969-4613-bac6-40cbd03150e5/public_url"><img src="https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" width="120"/></a>
   <a href="https://www.credly.com/badges/bb38ead1-4d33-4891-a485-ce0b222d30e2/public_url"><img src="https://images.credly.com/size/340x340/images/ea2c9f2e-b7e1-4a5a-a82e-7e94b67b35bd/image.png" width="120"/></a>
   <a href="https://www.credly.com/badges/73dd4520-aa58-4884-914e-22518e393f8e/public_url"><img src="https://images.credly.com/size/340x340/images/78fc0757-e9d9-4e92-936e-2490815b4965/image.png" width="120"/></a>
@@ -61,7 +64,6 @@
 ### ✍️ Curiosidades
 
 - 📚 Sou autor do livro *As Crônicas de Sangue e Fé* (2015) e estou trabalhando em um novo projeto literário.
-- 🧠 Estou cursando duas pós-graduações: **FullStack Development** e **Arquitetura de Software com Gestão de Projetos**.
 - 🏋️‍♂️ Atleta amador de Streetlifting, com foco em força e disciplina.
 
 ---
