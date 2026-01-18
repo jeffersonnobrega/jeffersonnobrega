@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Jefferson Nóbrega
 
-🇧🇷 Brasileiro, atualmente no cargo de Analista de Redes de Computadores na BRB Serviços S.A., porém atuando como **Analista de Sistemas** e trilhando um caminho consistente para me tornar um **Desenvolvedor Backend** com visão FullStack e foco em **automação, APIs e soluções corporativas**.
+🇧🇷 Brasileiro, atualmente no cargo de Analista de Redes de Computadores na BRB Serviços S.A., porém atuando como **Analista de Sistemas** e trilhando um caminho consistente em **Desenvolvedor Backend** com visão FullStack e foco em **automação, APIs e soluções corporativas**.
 
 🧠 Graduado em Redes de Compuradores e pós-graduações: **FullStack Development** e **Arquitetura de Software com Gestão de Projetos**.
 
