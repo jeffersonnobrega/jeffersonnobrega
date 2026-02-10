@@ -36,17 +36,15 @@
 
 ---
 
+### 📌 Projetos em destaque
+
+- <a href= "https://github.com/jeffersonnobrega/Dotnet/tree/main/Dotnet/APIs/WebApiBiblioteca">WEB API com .NET 8 e SQL Server | CRUD + Repository Pattern</a>
+---
 ### 🌐 Acesse minha página de apresentação
 
 👉 [jeffersonnobrega.github.io/meusite - Em construção](https://jeffersonnobrega.github.io/meusite/)
 
 ---
-
-### 📌 Projetos em destaque
-
-Reformulando essa seção. Em breve atualizada.
----
-
 ### 🧾 Certificações e Badges
 
 <div>
