@@ -40,6 +40,12 @@
 
 - <a href= "https://github.com/jeffersonnobrega/Dotnet/tree/main/Dotnet/APIs/WebApiBiblioteca">WEB API com .NET 8 e SQL Server | CRUD + Repository Pattern</a>
 ---
+
+
+### 📌 Trabalhando em:
+
+- <a href= "https://github.com/jeffersonnobrega/Dotnet/tree/main/Dotnet/SistemaAtendimento">  WEB API PARA UM SISTEMA DE ATENDIMENTO | com .NET 8 e SQL Server | CRUD + Repository Pattern </a>
+---
 ### 🌐 Acesse minha página de apresentação
 
 👉 [jeffersonnobrega.github.io/meusite - Em construção](https://jeffersonnobrega.github.io/meusite/)
